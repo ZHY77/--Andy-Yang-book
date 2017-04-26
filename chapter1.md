@@ -16,9 +16,9 @@ _SWOT分析方法：S （strengths）是优势、W （weaknesses）是劣势，O
 * [ ] 运营推广
 * [ ] 后期跟进和完善
 
+#### Axure、
 
-
-#### 
+#### PRD：BRD（商业需求文档）--MRD（市场需求文档）--PRD（产品需求文档）--FSD（功能详细说明文档）--Design、Code、Test、Release
 
 
 
