@@ -1,3 +1,12 @@
-# First Chapter
+* ## 认识产品经理
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+### 产品经理是企业中专门负责产品管理的职位，产品经理负责调查并根据用户的需求，确定开发何种产品，选择何种技术、商业模式等
+
+* ## 产品开发设计流程
+
+
+
+## 
+
+
+

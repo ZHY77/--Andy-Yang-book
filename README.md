@@ -1,3 +1,12 @@
-# My Awesome Book
+# 前言
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Introduction
+
+上周裸辞之后又开始了循环面试，由于空闲时间多了不少，决定尝试这种新的书写方式做些笔记
+
+
+
+
+
+
+
